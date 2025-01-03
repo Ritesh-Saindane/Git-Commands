@@ -48,7 +48,6 @@ Follow this Steps :
    git clone https://github.com/username/repository-name.git
    cd repository-name
    ```
-## (Suppose u are visiting for second time onwards : )
 
 2. **IMP : Fetch all branches**:
    ```bash
@@ -102,7 +101,8 @@ Follow this Steps :
 ---
 
 ### Some Points to remember : 
-- whenever u come back to start working on project do pull ur branch using command git pull origin <your_name> so that u get recent changes made by anyone.
+- ## (Suppose u are visiting for second time onwards : then whenever u come back to start working on) project do pull ur branch using command git pull origin <your_name> so that u get recent changes made by anyone.##
+
 - `git branch --all` is used to list **both** local and remote branches.
 - When you create a local branch, it won’t show under `remotes/origin/` until you push it to the remote repository.
 - you can also set upstream your remote branch but hum ye nhi karenge to avoid complexities.
