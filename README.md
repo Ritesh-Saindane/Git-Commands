@@ -101,7 +101,7 @@ Follow this Steps :
 ---
 
 ### Some Points to remember : 
-- ## (Suppose u are visiting for second time onwards : then whenever u come back to start working on) project do pull ur branch using command git pull origin <your_name> so that u get recent changes made by anyone.##
+- ##Imp : Suppose u are visiting for second time onwards : then whenever u come back to start working on, do pull ur branch using command git pull origin <your_name> so that u get recent changes made by anyone.
 
 - `git branch --all` is used to list **both** local and remote branches.
 - When you create a local branch, it won’t show under `remotes/origin/` until you push it to the remote repository.
